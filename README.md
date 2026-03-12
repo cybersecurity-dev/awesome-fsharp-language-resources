@@ -8,3 +8,8 @@
 # **`Awesome`** [F#](https://wikipedia.org/wiki/F_Sharp_(programming_language)) Language Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
+
+
+## Blog
+
+- [F# Weekly by Sergey Tihon](https://sergeytihon.com/category/f-weekly/)
