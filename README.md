@@ -20,7 +20,11 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-## Blog
+
+## Books
+* [The Book of F#: Breaking Free with Managed Functional Programming](https://www.amazon.com/Book-Breaking-Managed-Functional-Programming-ebook/dp/B00IZNQULW)
+
+## Blogs
 
 - [F# Weekly by Sergey Tihon](https://sergeytihon.com/category/f-weekly/)
 
