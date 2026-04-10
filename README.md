@@ -28,7 +28,8 @@
 
 - [F# Weekly by Sergey Tihon](https://sergeytihon.com/category/f-weekly/)
 
-
+## Videos
+* [Why Functional Programming Doesn't Matter](https://www.youtube.com/watch?v=kZ1P8cHN3pY)
 
 ## 
 
