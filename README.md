@@ -30,7 +30,7 @@
 
 ## Videos
 * [Why Functional Programming Doesn't Matter](https://www.youtube.com/watch?v=kZ1P8cHN3pY)
-
+* [Functional Programming in F#: Fad or Fabulous? by Ken Bonny](https://youtu.be/87NL9WcGTWM?si=lozmHfXII-6qFh1p)
 ## 
 
 ### My Other Awesome Lists
