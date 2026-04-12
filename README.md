@@ -29,8 +29,11 @@
 - [F# Weekly by Sergey Tihon](https://sergeytihon.com/category/f-weekly/)
 
 ## Videos
-* [Why Functional Programming Doesn't Matter](https://www.youtube.com/watch?v=kZ1P8cHN3pY)
-* [Functional Programming in F#: Fad or Fabulous? by Ken Bonny](https://youtu.be/87NL9WcGTWM?si=lozmHfXII-6qFh1p)
+* ["Why Functional Programming Doesn't Matter" by Sebastian Funk](https://www.youtube.com/watch?v=kZ1P8cHN3pY)
+* ["Functional Programming in F#: Fad or Fabulous?" by Ken Bonny](https://youtu.be/87NL9WcGTWM?si=lozmHfXII-6qFh1p)
+* ["Why Every Day as a Developer Would Be Easier with F#" by Urs Enzler](https://youtu.be/q3Ies_XTo_s?si=lV2bLKBlvyKI3-7W)
+* ["F# Code I Love" by Don Syme](https://youtu.be/1AZA1zoP-II?si=NZ5oXbPD1l2Ias7Z)
+
 ## 
 
 ### My Other Awesome Lists
