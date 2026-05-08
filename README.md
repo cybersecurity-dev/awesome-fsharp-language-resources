@@ -20,15 +20,22 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [Books](#books)
+- [Blogs](#blogs)
+- [Videos](#videos)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
-## Books
+### Books
 * [The Book of F#: Breaking Free with Managed Functional Programming](https://www.amazon.com/Book-Breaking-Managed-Functional-Programming-ebook/dp/B00IZNQULW)
 
-## Blogs
+### Blogs
 
 - [F# Weekly by Sergey Tihon](https://sergeytihon.com/category/f-weekly/)
 
-## Videos
+### Videos
 * ["Why Functional Programming Doesn't Matter" by Sebastian Funk](https://www.youtube.com/watch?v=kZ1P8cHN3pY)
 * ["Functional Programming in F#: Fad or Fabulous?" by Ken Bonny](https://youtu.be/87NL9WcGTWM?si=lozmHfXII-6qFh1p)
 * ["Why Every Day as a Developer Would Be Easier with F#" by Urs Enzler](https://youtu.be/q3Ies_XTo_s?si=lV2bLKBlvyKI3-7W)
